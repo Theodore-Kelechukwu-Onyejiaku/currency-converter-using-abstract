@@ -8,7 +8,7 @@ Currency Converter Using Abstract API, TypeScript, NextJs and Tailwind CSS.
 This is a basic app that returns currencies , digital and cryptos, and their rates as compared to each other.
 
 ## URL
-
+https://currency-converter-with-abstract-api.netlify.app/
 
 ## Run The Application
 Once forked or cloned, run the command below to start the application:
